@@ -1,0 +1,2 @@
+export DB_URL='postgres://postgres:postgres@localhost:5432/auth_rest_fiber_db?sslmode=disable'
+export TOKEN_SECRET='MwEL2UHbQNr8BwKm4j8iXXteZfClkIfgVv0SEDv9oCPVTE3XaRcdiLt1BJSbxVB4lLqZ0tqtueSsj8ox3Lu4IGpj9C1tya43D8YV3zTZiEICUoyTmao1swcngTyOkm'
